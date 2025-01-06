@@ -3,14 +3,7 @@
 
 > 성공회대학교 디지털 콘텐츠 학과 수업 코딩으로 배우는 미디어 아트에서 제출한 과제 파일입니다.
 
-
 ![Processing](https://img.shields.io/badge/Processing-007ACC.svg?&style=for-the-badge&logoColor=white)
-
-## 제작 기간
-
-- **시작일**: [2020.01] 
-- **완료일**: [2020.02]  
-- **총 소요 기간**: [1개월]
 
 ## 프로젝트 소개
 
