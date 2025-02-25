@@ -12,9 +12,13 @@ java 베이스의 툴 Processing을 이용해서 만든 미디어 아트입니�
 
 ## 플레이 영상
 https://youtu.be/r3m4LMU_j9s
+
 https://youtube.com/shorts/tc8lAHl6CMU
+
 https://youtube.com/shorts/CvsrrMmmW7M
+
 https://youtube.com/shorts/yAaWzfDXSnY
+
 ## 연락처
 
 - 이메일: [samseo2910@naver.com](mailto:samseo2910@naver.com)
